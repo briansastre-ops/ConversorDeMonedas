@@ -54,9 +54,15 @@ Hacer clic en el botón Convertir.
 El resultado de la conversión se mostrará en la etiqueta Resultado.
 
 
+
 ConversorMonedasGUI/
+
 ├── pom.xml                   # Archivo de configuración de Maven
+
 └── src/
+   
     └── org/
+       
         └── example/
+           
             └── ConversorGUI.java   # Código fuente principal del conversor
